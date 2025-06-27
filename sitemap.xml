@@ -102,6 +102,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://garagemdomadeira.com.br/posts/comparativo-processadores-de-multimidias</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://garagemdomadeira.com.br/posts/conhecendo-o-modo-scs-nos-honda</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -243,11 +248,6 @@
     </url>
     <url>
         <loc>https://garagemdomadeira.com.br/posts/multimidias-lelong</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://garagemdomadeira.com.br/posts/ofertas-do-aliexpress</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
